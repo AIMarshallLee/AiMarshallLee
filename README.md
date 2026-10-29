@@ -1,13 +1,12 @@
 # Marshall 帅厂长 | Kunlun Growth (增长飞轮AI)
 
-**Enterprise AI enablement for small & mid-sized businesses · Hangzhou, China**
+**Enterprise AI enablement for small & mid-sized businesses · Shenzhen · Huaibei · Hangzhou, China**
 
-I run [Kunlun Growth](https://kunlungrowth.com) — we help SMBs adopt AI with evidence, not hype: diagnose, run a small pilot with real metrics, then scale with training and rules.
+I run Kunlun Growth (增长飞轮AI) — we help SMBs adopt AI with evidence, not hype: diagnose, run a small pilot with real metrics, then scale with training and rules.
 
-## 📊 Flagship research
-- **[We analyzed 235 real enterprise AI implementations](https://kunlungrowth.com/research/ai-adoption-235-cases/)** — 191 succeeded, 44 failed, 27 countries, every number checked against primary sources (603 citations, 89.7% non-Chinese).
-- 🇨🇳 Chinese edition with all case pages: [kunlungrowth.cn/research/ai-cases-2026](https://kunlungrowth.cn/research/ai-cases-2026/)
-- 📦 Dataset repo: [enterprise-ai-adoption-cases-2026](https://github.com/AIMarshallLee/enterprise-ai-adoption-cases-2026)
+## 📊 Research
+- **[Enterprise AI adoption: 24 verified case studies](https://github.com/AIMarshallLee/enterprise-ai-adoption-cases-2026)** — selected from our handbook of 235 enterprise AI implementations (191 successes, 44 failures or setbacks, 27 countries), every figure checked against its primary source (603 sources, 89.7% non-Chinese). Chinese originals plus English translations.
+- The full handbook (43 chapters, 235 cases, with editor's analysis) is shared on request — WeChat: MarshallPD.
 
 ## 🔧 Open source
 | Repo | What it does |
@@ -23,4 +22,4 @@ I run [Kunlun Growth](https://kunlungrowth.com) — we help SMBs adopt AI with e
 - Custom AI workflows: customer service, content pipelines, knowledge bases
 
 ---
-*Contact: marshall@kunlungrowth.com · All research figures carry provenance labels; self-reported numbers are upper bounds, not promises.*
+*Contact: WeChat MarshallPD · All research figures carry provenance labels; self-reported and vendor-reported numbers are upper bounds, not promises.*
